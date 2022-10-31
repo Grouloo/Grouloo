@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Grouloo
+- 👀 I’m interested in web, blockchain and entrepreneurship
+- 🌱 I’m currently learning blockchain development 
+- 📫 How to reach me: elliott@grouloo.fr
